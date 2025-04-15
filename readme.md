@@ -12,7 +12,7 @@
 
 ## Installation
 
-```git clone XXX && cd C7_BrickGame_v1.0-1/src```
+```git clone XXX && cd tetris/src```
 
 ## Make
 
